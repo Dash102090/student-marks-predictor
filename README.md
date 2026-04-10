@@ -5,7 +5,7 @@ This program illustrates how scikit works with pandas, tkinter and matplotlib.
 
 ## 📦 Requirement:
 
-Open your terminal by opening start and typing *`cmd`*, enter this command line in your terminal **`pip install tkinter sklearn matplotlib`**
+Open your terminal by opening start and typing *`cmd`*, enter this command line in your terminal **`pip install sklearn matplotlib`**
 
 ## 🟢Pros:
 
@@ -16,8 +16,8 @@ Open your terminal by opening start and typing *`cmd`*, enter this command line 
 
 ## 🔴Cons:
 
-1. Requires python knnowledge for changing the prediction.
-2. Only predicts wih no additional uses.
+1. Requires python knowledge for changing the prediction.
+2. Only predicts with no additional uses.
 3. Messy code.
  
 ## 🔎Overview
