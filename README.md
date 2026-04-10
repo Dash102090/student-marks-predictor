@@ -5,7 +5,7 @@ This program illustrates how scikit works with pandas, tkinter and matplotlib.
 
 ## 📦 Requirement:
 
-Open your terminal by opening start and typing *cmd*, enter this command line in your terminal **pip install tkinter sklearn matplotlib**
+Open your terminal by opening start and typing `cmd`, enter this command line in your terminal ``pip install tkinter sklearn matplotlib``
 
 ## 🟢Pros:
 
