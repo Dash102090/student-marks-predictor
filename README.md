@@ -1,4 +1,4 @@
 # Student-Marks-Predictor
 
-# About (h2)
+#(h2) About
 This program illustrates how scikit works with pandas, tkinter and matplotlib.
