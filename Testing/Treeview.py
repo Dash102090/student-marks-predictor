@@ -63,8 +63,8 @@ print(f'Mean_Squared_Mean = {round(mse, 4)}')
 
 print(f'Coefficient = {model.coef_}\nIntercept = {model.intercept_}')
 
-Scatter = plt.scatter(y_test, y_pred, color='Red')
-Plot = plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()])
+Scatter = plt.scatter(y_test, y_pred, color='#6C60C4')
+Plot = plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], color='#FF9317')
 
 plt.title('Predicted Marks')
 plt.xlabel('Time Studied')
